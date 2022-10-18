@@ -19,9 +19,9 @@
 
 - 🚀 I have learned of CSS library like Chakra UI.
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👬 I’m looking to collaborate on **Open Source Projects**
 
-- 💬Have a look at my [portfolio](https://udaycreative.github.io/).
+- 💬 Have a look at my [portfolio](https://udaycreative.github.io/).
 
 - 📫 How to reach me **udaypatil544@gmail.com**
 
