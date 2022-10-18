@@ -42,8 +42,8 @@ Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&log
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats
-![](https://github-readme-stats.herokuapp.app/api?username=UdayCreative&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs?username=UdayCreative&show_icons=true&locale=en&layout=compact)<br />
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UdayCreative&theme=react&hide_border=false)<br />
 
-![](https://github-readme-stats.herokuapp.app/api/top-langs/?username=UdayCreative&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=UdayCreative&)
