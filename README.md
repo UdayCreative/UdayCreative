@@ -54,5 +54,5 @@ Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&log
 <p align="center">
 <a href="https://www.linkedin.com/in/patiluday/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-sultane-8bb16b199/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/uday.patil.5201254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vaibhav.sultane" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/sultanevaibhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sultanevaibhav" height="30" width="40" /></a> -->
+<a href="https://www.instagram.com/udaypatil12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sultanevaibhav" height="30" width="40" /></a>
 </p>
