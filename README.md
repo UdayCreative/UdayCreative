@@ -71,7 +71,7 @@ Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&log
 <!-- <p align="left"><img src="https://githubreadmestats.vercel.app/api/toplangs/username=UdayCreative&hide=smalltalk&theme=algolia&layout=compact" alt="Top_Languages_Stats" /></p>
 <!-- <p><a href="https://github.com/UdayCreative?tab=repositories">
 <img src="https://github-readme-stats.vercel.app/api?username=UdayCreative&show_icons=true&theme=algolia&count_private=true" alt="github stats" /></a></p> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UdayCreative&theme=react&hide_border=false&include_all_commits=true&layout=compact" alt="UdayCreative" /></p></br>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UdayCreative&theme=react&hide_border=false&include_all_commits=true&layout=compact" alt="UdayCreative" /></p></br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=UdayCreative&hide=smalltalk&theme=algolia&layout=compact" alt="UdayCreative" />
 </p> -->
 
