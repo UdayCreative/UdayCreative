@@ -69,18 +69,18 @@ Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&log
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UdayCreative&theme=react&hide_border=false&include_all_commits=true&layout=compact" alt="UdayCreative" /></br> -->
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=UdayCreative&theme=react&hide_border=false&show_icons=true&locale=en" alt="UdayCreative" /></br> -->
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=UdayCreative&&theme=react&hide_border=false)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=UdayCreative&&theme=react&hide_border=false)</br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=UdayCreative&theme=react&hide_border=false&include_all_commits=true&layout=compact)</br>
 
-![](https://github-readme-stats.vercel.app/api?username=UdayCreative&theme=react&hide_border=false&show_icons=true&locale=en)</br> -->
+![](https://github-readme-stats.vercel.app/api?username=UdayCreative&theme=react&hide_border=false&show_icons=true&locale=en)</br>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=UdayCreative&hide=smalltalk&theme=react&hide_border=false&layout=compact)</br>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=UdayCreative&hide=smalltalk&theme=react&hide_border=false&layout=compact)</br>
 
 ![](https://github-readme-stats.vercel.app/api?username=UdayCreative&show_icons=true&theme=react&count_private=true&hide_border=false) </br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=UdayCreative&theme=react&hide_border=false&include_all_commits=true&layout=compact)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=UdayCreative&theme=react&hide_border=false&include_all_commits=true&layout=compact)</br> -->
 
 
 <h3 align="center">Connect with me:</h3>
