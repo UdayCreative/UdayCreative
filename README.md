@@ -47,12 +47,12 @@ Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&log
 ![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats
-<!-- <a href="https://github.com/UdayCreative/github-readme-activity-graph"><img alt="activity graph" src="https://activity-graph.herokuapp.com/graph?username=UdayCreative&theme=react-dark&hide_border=true" /></a> -->
-  <br/>
-  <div align="center">
-  <p><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UdayCreative&show_icons=true&locale=en&layout=compact" alt="UdayCreative" /></p>
-<p><img width="350px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UdayCreative&" alt="janhaviprabhu" /></p>
-  <p  align="center"><img  width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=UdayCreative&show_icons=true&locale=en" alt="UdayCreative" /></p></div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=UdayCreative&theme=react&hide_border=false)<br />
+![](https://github-readme-stats.vercel.app/api?username=UdayCreative&theme=react&hide_border=false&show_icons=true&locale=en)<br />
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UdayCreative&theme=react&hide_border=false&include_all_commits=true&layout=compact)
+
+![](https://activity-graph.herokuapp.com/graph?username=UdayCreative&theme=react-dark&hide_border=true)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
