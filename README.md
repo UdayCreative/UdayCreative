@@ -47,12 +47,12 @@ Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&log
 ![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats
-<a href="https://github.com/UdayCreative/github-readme-activity-graph"><img alt="activity graph" src="https://activity-graph.herokuapp.com/graph?username=UdayCreative&theme=react-dark&hide_border=true" /></a>
+<!-- <a href="https://github.com/Janhaviprabhu/github-readme-activity-graph"><img alt="Janhavi prabhu activity graph" src="https://activity-graph.herokuapp.com/graph?username=Janhaviprabhu&theme=react-dark&hide_border=true" /></a> -->
   <br/>
   <div align="center">
-  <p><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UdayCreative&show_icons=true&locale=en&layout=compact" alt="gucci1909" /></p>
-<p><img width="350px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UdayCreative&" alt="UdayCreative" /></p>
-  <p  align="center"><img  width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=UdayCreative&show_icons=true&locale=en" alt="UdayCreative" /></p></div>
+  <p><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Janhaviprabhu&show_icons=true&locale=en&layout=compact" alt="gucci1909" /></p>
+<p><img width="350px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janhaviprabhu&" alt="janhaviprabhu" /></p>
+  <p  align="center"><img  width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=Janhaviprabhu&show_icons=true&locale=en" alt="janhavi" /></p></div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
