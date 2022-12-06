@@ -71,12 +71,9 @@ Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&log
 <!--  <p align="left"><img src="https://githubreadmestats.vercel.app/api/toplangs/username=UdayCreative&hide=smalltalk&theme=algolia&layout=compact" alt="Top_Languages_Stats" /></p> -->
 
 
-<img align="left" gap="10px" src="https://github-readme-streak-stats.herokuapp.com/?user=UdayCreative&hide=smalltalk&theme=react&hide_border=false&layout=compact" alt="UdayCreative" /></br>
-<img align="left" gap="10px" src="https://github-readme-stats.vercel.app/api?username=UdayCreative&show_icons=true&theme=react&count_private=true" alt="github stats" /></br>
-<img align="left" gap="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=UdayCreative&theme=react&hide_border=false&include_all_commits=true&layout=compact" alt="UdayCreative" /></br>
-
-
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=UdayCreative&hide=smalltalk&theme=react&hide_border=false&layout=compact)</br>
+![](https://github-readme-stats.vercel.app/api?username=UdayCreative&show_icons=true&theme=react&count_private=true) </br>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=UdayCreative&theme=react&hide_border=false&include_all_commits=true&layout=compact)</br>
 
 
 <h3 align="center">Connect with me:</h3>
