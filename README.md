@@ -56,19 +56,25 @@ Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&log
 ![](https://activity-graph.herokuapp.com/graph?username=UdayCreative&theme=react-dark&hide_border=true) -->
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=UdayCreative&&theme=react&hide_border=false)<br />
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=UdayCreative&&theme=react&hide_border=false)<br />
 
 ![](https://github-readme-stats.vercel.app/api?username=UdayCreative&theme=react&hide_border=false&show_icons=true&locale=en)<br />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=UdayCreative&theme=react&hide_border=false&include_all_commits=true&layout=compact)
 
-![](https://activity-graph.herokuapp.com/graph?username=UdayCreative&theme=react-dark&hide_border=true)
+![](https://activity-graph.herokuapp.com/graph?username=UdayCreative&theme=react-dark&hide_border=true) -->
 
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=UdayCreative&&theme=react&hide_border=false" alt="UdayCreative" /></p></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UdayCreative&theme=react&hide_border=false&include_all_commits=true&layout=compact" alt="UdayCreative" /></p></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=UdayCreative&theme=react&hide_border=false&show_icons=true&locale=en" alt="UdayCreative" /></p></br> -->
 
-
+<p align="left">
+<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readmestats.vercel.app/api/toplangs/username=bhargavi35&hide=smalltalk&theme=algolia&layout=compact" width="400" />
+<a href="https://github.com/bhargavi35?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api?username=bhargavi35&show_icons=true&theme=algolia&count_private=true" alt="bhargavi's github stats"  width="400" height="auto" />
+  </a>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavi35&hide=smalltalk&theme=algolia&layout=compact" alt="bhargavi35" />
+</p>
 
 
 <h3 align="center">Connect with me:</h3>
