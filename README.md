@@ -61,7 +61,7 @@ Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&log
 
 ![](https://github-readme-stats.vercel.app/api?username=UdayCreative&theme=react&hide_border=false&show_icons=true&locale=en)<br />
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=UdayCreative&theme=react&hide_border=false&include_all_commits=true&)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UdayCreative&theme=react&hide_border=false&include_all_commits=true&layout=compact)
 
 ![](https://activity-graph.herokuapp.com/graph?username=UdayCreative&theme=react-dark&hide_border=true)
 
