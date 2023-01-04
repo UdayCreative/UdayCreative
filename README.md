@@ -22,7 +22,7 @@
 
 - 👬 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Have a look at my [portfolio](https://udaycreative.github.io/) and [resume](https://drive.google.com/file/d/10nmSo-DqHntp3-ZXxe_kDvEgMedQMDqE/view?usp=sharing)
+- 💬 Have a look at my [portfolio](https://udaycreative.github.io/) and [resume](https://onedrive.live.com/?authkey=%21AFB%5FW32RzrlarpM&cid=8AD16FDD74D51843&id=8AD16FDD74D51843%21139&parId=8AD16FDD74D51843%21138&o=OneUp&sw=bypassConfig)
 
 - 📫 How to reach me **udaypatil544@gmail.com**
 
